@@ -1,0 +1,6 @@
+{
+  "name": "Google Merchandise Store",
+  "description": "A modern, premium e-commerce merchandise store redesign featuring apparel, accessories, drinkware, and sustainable lifestyle goods with an intuitive shopping experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
